@@ -74,7 +74,8 @@ Blinkit needs to optimize its **sales strategy, outlet performance, and product 
 ---
 
 ##  Project Preview
-* **Power BI Dashboard** - https://github.com/Divyanshu819/Blinkit-Sales-Insights/blob/main/Blinkit%20Analysis%20Dashboard.png
+* **Power BI Dashboard**
+*  (https://github.com/Divyanshu819/Blinkit-Sales-Insights/blob/main/Blinkit%20Analysis%20Dashboard.png)
 ---
 
 ### **Business Impact & Insights**
