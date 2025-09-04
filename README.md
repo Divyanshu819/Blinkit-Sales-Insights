@@ -92,6 +92,6 @@ This project demonstrates how combining **Excel, SQL, Python, and Power BI** tra
 
 ---
 
-👉 Divyanshu, once you upload images into the repo (inside an `images` folder), GitHub will automatically render them.
-
-Do you want me to also create a **folder + naming structure suggestion** (for data, code, reports, images) so your repo looks super professional?
+## Author
+**Divyanshu Chauhan**   
+- Email -  cdivyanshu819@gmail.com 
